@@ -80,6 +80,4 @@ All contributions are welcome! Please create an **issue** or submit a **pull req
 ## 📜 License
 This project is released under the **GNU License**.
 
-See details at `[Looks like the result wasn't safe to show. Let's switch things up and try something else!]`.
-
 ---

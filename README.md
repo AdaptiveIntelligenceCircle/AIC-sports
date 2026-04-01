@@ -3,7 +3,7 @@
 **Adaptive Intelligence Circle for Sports (AIC-sports)** is a project that applies artificial intelligence and data analytics in the field of sports, aiming to support coaching, performance analysis, and optimization of competition strategies.
 
 <p align="center">
-  <img src="assets/AIC-Sports.png" alt="AIC Logo" width="1024" length = "1024"/>
+  <img src="assets/AIC-sports.png" alt="AIC Logo" width="1024" length = "1024"/>
 </p>
 
 ---
